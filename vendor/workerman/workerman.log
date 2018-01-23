@@ -1,0 +1,23 @@
+2018-01-23 16:28:50 pid:10946 Workerman[start.php] start in DEBUG mode
+2018-01-23 16:28:54 pid:10951 Worker process terminated
+2018-01-23 16:28:54 pid:10946 worker[gateway:10951] exit with status 65280
+2018-01-23 16:29:51 pid:10946 Workerman[start.php] stopping ...
+2018-01-23 16:29:51 pid:10946 Workerman[start.php] has been stopped
+2018-01-23 16:29:52 pid:11001 Workerman[start.php] start in DEBUG mode
+2018-01-23 16:29:59 pid:11008 Worker process terminated
+2018-01-23 16:29:59 pid:11001 worker[gateway:11008] exit with status 65280
+2018-01-23 16:31:35 pid:11001 Workerman[start.php] stopping ...
+2018-01-23 16:31:35 pid:11001 Workerman[start.php] has been stopped
+2018-01-23 16:35:07 pid:11248 Workerman[start.php] start in DEBUG mode
+2018-01-23 16:37:12 pid:11248 Workerman[start.php] stopping ...
+2018-01-23 16:37:12 pid:11248 Workerman[start.php] has been stopped
+2018-01-23 16:37:12 pid:11346 Workerman[start.php] start in DEBUG mode
+2018-01-23 16:38:49 pid:11346 Workerman[start.php] stopping ...
+2018-01-23 16:38:49 pid:11346 Workerman[start.php] has been stopped
+2018-01-23 16:38:52 pid:11427 Workerman[start.php] start in DAEMON mode
+2018-01-23 16:40:45 pid:11538 Workerman[start.php] stop 
+2018-01-23 16:40:45 pid:11538 Workerman[start.php] is stoping ...
+2018-01-23 16:40:45 pid:11429 Workerman[start.php] stopping ...
+2018-01-23 16:40:45 pid:11429 Workerman[start.php] has been stopped
+2018-01-23 16:40:45 pid:11538 Workerman[start.php] stop success
+2018-01-23 16:40:52 pid:11541 Workerman[start.php] start in DAEMON mode
